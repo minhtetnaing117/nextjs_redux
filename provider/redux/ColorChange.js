@@ -1,6 +1,6 @@
 import {createSlice} from '@reduxjs/toolkit'
 
-const ChangeColor = createSlice({
+export const ChangeColor = createSlice({
     name:'ChangeColor',
     initialState:{
         color:'#000'
