@@ -1,7 +1,6 @@
 import { Inter } from "next/font/google";
 import ReduxProvider from '@/provider/redux/ReduxProvider'
 
-import "./styles/globals.css";
 
 const inter = Inter({ subsets: ['latin']})
 
